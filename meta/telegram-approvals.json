@@ -11,10 +11,12 @@
       "owner": "Johanson1988",
       "repo": "app-de-bienestar"
     },
-    "status": "pending",
+    "status": "rejected",
     "autoAction": "reject",
     "timeoutHours": 24,
     "createdAt": "2026-03-06T13:36:07.808Z",
-    "chatId": 1022817199
+    "chatId": 1022817199,
+    "resolvedAt": "2026-05-11T22:35:04.097Z",
+    "resolvedBy": "timeout"
   }
 ]
