@@ -1,14 +1,14 @@
 {
   "date": "2026-05-12",
-  "totalUSD": 0.1509035,
+  "totalUSD": 0.18484575,
   "byAgent": {
     "wake": 0.075184,
-    "agent": 0.07571949999999998
+    "agent": 0.10966174999999999
   },
   "byModel": {
-    "gpt-5-mini": 0.1509035
+    "gpt-5-mini": 0.18484575
   },
-  "calls": 24,
+  "calls": 33,
   "alertSent80": false,
   "alertSent100": false
 }
