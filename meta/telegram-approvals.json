@@ -1,22 +1,20 @@
 [
   {
-    "id": "6048aa92",
+    "id": "31323eeb",
     "type": "hire_agent",
-    "title": "Hire: Maurice Moss (telegram-bot-backend-specialist)",
-    "description": "Alright, team! We need a sharp mind for this Telegram bot backend architecture role. No local skills perfectly match yet, but that’s no biggie. I’m bringing in Maurice Moss from The IT Crowd because his ability to explain complex tech and handle intricate backend systems will be invaluable here. This hire fills a critical gap, ensuring our bot’s technical foundation is solid and scalable. Let’s get this done right — that’s what she said!",
+    "title": "Hire: Bertram Gilfoyle (devops-github-actions-argocd)",
+    "description": "Okay, here’s the deal. This is a classic \"someone will accidentally break prod because we didn't gate builds correctly\" situation. The team lacks GitHub Actions / GitOps expertise and the change touches root workflows, secrets, and ArgoCD — high-risk. We need a focused DevOps hire who knows how to implement a weekly-publish.yml that runs scripts/ci-*.mjs, handles GHCR & deploy tokens safely, and produces clear deployment & rollback checklists. I am hiring this agent now. It’s like hiring a fire extinguisher that codes. You’re welcome.",
     "data": {
-      "slug": "telegram-bot-backend-specialist",
-      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/7",
-      "issueNumber": 1,
+      "slug": "devops-github-actions-argocd",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/9",
+      "issueNumber": 37,
       "owner": "Johanson1988",
-      "repo": "app-de-bienestar"
+      "repo": "modelos-casas-canarias"
     },
-    "status": "rejected",
+    "status": "pending",
     "autoAction": "reject",
     "timeoutHours": 24,
-    "createdAt": "2026-03-06T13:36:07.808Z",
-    "chatId": 1022817199,
-    "resolvedAt": "2026-05-11T22:35:04.097Z",
-    "resolvedBy": "timeout"
+    "createdAt": "2026-05-12T12:47:48.611Z",
+    "chatId": 1022817199
   }
 ]
