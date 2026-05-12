@@ -16,5 +16,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-12T12:47:48.611Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "e9329c80",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (github-verifier)",
+    "description": "¡Sí! Contratémoslo. Escuchen: esto es crítico para la documentación y la trazabilidad. Necesitamos pruebas firmes (SHA, timestamps) y pasos claros para evitar commits equivocados. Este agente será nuestro \"detective del repositorio\" — preciso, técnico y sin emociones. Además, si algo sale mal, él sabrá dónde estuvo el problema. Contratado. That was easy. — Michael Scott",
+    "data": {
+      "slug": "github-verifier",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/10",
+      "issueNumber": 31,
+      "owner": "Johanson1988",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-12T19:00:18.653Z",
+    "chatId": 1022817199
   }
 ]
