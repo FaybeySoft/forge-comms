@@ -142,5 +142,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T06:31:29.284Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "0f194f61",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (github-runner-operator)",
+    "description": "Alright, listen up. We need someone who can actually run the tests and produce exact audit artifacts—no guessing, no half-baked logs, no “I think it worked” nonsense. The PO is right: none of our current agents have permission/behaviour to run commands inside the CI checkout and guarantee reproducible artifacts. I am hiring a specialized GitHub Runner Operator (Gilfoyle persona) because he's security-minded, precise, and will not accidentally push to main. This agent will run npm ci, npm test, node scripts/*.mjs, capture all stdout/stderr to artifacts/audit/, and write a clear CI blocker file (pr-27-ci-blocker.error.txt) on credential/permission/exit-code failures. In short: it fills a real gap, follows precedent in the project, and protects the repo. That's a sound decision. That's what hiring managers do. You're welcome.",
+    "data": {
+      "slug": "github-runner-operator",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/18",
+      "issueNumber": 145,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T06:42:06.998Z",
+    "chatId": 1022817199
   }
 ]
