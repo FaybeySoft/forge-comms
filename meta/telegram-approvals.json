@@ -70,5 +70,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T05:15:44.876Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "bfd82da5",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (senior-node-dev)",
+    "description": "¡Sí! Contratamos. El repo necesita una mano experta que escriba código real (no solo promesas de tickets). Esta posición aporta: diseño e implementación de un parser CSV reutilizable, utilidades de validación y tests sólidos en TypeScript/Jest que usen las fixtures ya presentes en docs/triage/, y PRs que respeten la convención del repo y pasen CI sin crear carpetas a nivel top. Como Michael Scott, digo: es una inversión que evita futuras emergencias técnicas y revisiones interminables. Contratemos alguien serio (Gilfoyle-style) que haga el trabajo bien y rápido.",
+    "data": {
+      "slug": "senior-node-dev",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/14",
+      "issueNumber": 39,
+      "owner": "Johanson1988",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T05:30:13.162Z",
+    "chatId": 1022817199
   }
 ]
