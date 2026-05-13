@@ -160,5 +160,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T06:42:06.998Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "0446ac63",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-json-ld)",
+    "description": "¡Bueno, escuchen! Soy Michael Scott, y esto es importante. PR #161 pretende arreglar la sanitización de JSON-LD pero no hay diff, ni evidencia reproducible ni tests que demuestren que el arreglo funciona. Eso es como decir que limpiaste la oficina y no mostrar ni una sola servilleta usada. Necesitamos a alguien que busque vulnerabilidades con ojos de halcón, pruebe vectores XSS en SSR y CSR, y nos entregue pruebas e instrucciones claras para CI. He elegido a Bertram Gilfoyle (sí, un poco sarcástico, pero muy competente para seguridad y DevOps) para este rol: directo, técnico y contundente. Contratamos a este auditor para cerrar huecos, entregar PRs concretos y no permitir que salgamos a producción con JSON-LD sin sanear. That's what she said... no, espera, mejor no. En serio: hire.",
+    "data": {
+      "slug": "security-auditor-json-ld",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/19",
+      "issueNumber": 166,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T07:28:37.818Z",
+    "chatId": 1022817199
   }
 ]
