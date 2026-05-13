@@ -88,5 +88,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T05:30:13.162Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "e9d579c0",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor)",
+    "description": "Alright, here's the deal. This is a serious potential XSS via JSON‑LD — not something you wave a magic wand at and hope for the best. We need someone who speaks devops and threat modeling fluently. I'm hiring Gilfoyle (security-minded, skeptical, and annoyingly correct) because he will reproduce the issue, audit the CI→registry→K8s chain, propose deterministic fixes, and deliver both automated CI tests and an executive-ready report. This prevents us from shipping a ticking time bomb and keeps the team from panicking. That is what she said. Very professionally.",
+    "data": {
+      "slug": "security-auditor",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/15",
+      "issueNumber": 91,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T05:36:16.672Z",
+    "chatId": 1022817199
   }
 ]
