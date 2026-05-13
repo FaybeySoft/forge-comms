@@ -106,5 +106,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T05:36:16.672Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "af6cf79c",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (ci-runner-github-operator)",
+    "description": "¡Sí! Contratemos a alguien que haga el trabajo sucio — pero seguro. El equipo actual tiene el ojo clínico para análisis funcional, SEO y seguridad, pero nadie puede ejecutar remotamente ni reproducir los comandos que el mantenedor pide. Necesitamos un runner que clone el repo, inspeccione la PR-105, ejecute npm ci, pruebas y scripts, haga auditorías y deje artefactos trazables en artifacts/audit/ sin tocar merges. Esto es eficiente, responsable y exactamente lo que la auditoría necesita. That’s what she said... but seriously, es imprescindible.",
+    "data": {
+      "slug": "ci-runner-github-operator",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/16",
+      "issueNumber": 111,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T06:16:57.900Z",
+    "chatId": 1022817199
   }
 ]
