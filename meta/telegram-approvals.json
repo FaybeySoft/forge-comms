@@ -196,5 +196,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T07:37:53.467Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "521a0b70",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-web-json-ld)",
+    "description": "Alright, listen up. Michael Scott here. PR #175 touches JSON-LD, which is basically one of those sneaky XSS doors we've tripped over before. We already have great people (code-critic, seo-expert, etc.), but this is a technical, low-level threat vector that needs a specialist who will actually hunt for the subtle ways data gets serialized and escapes into HTML. I'm hiring Gilfoyle because he is security-minded, succinct, and will give us exact files and lines to check, controlled PoCs (not chaos), and concrete test changes. This reduces risk of shipping a half-baked patch and me having to make another \"that's what she said\" joke in postmortem. That's a win for everyone.",
+    "data": {
+      "slug": "security-auditor-web-json-ld",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/21",
+      "issueNumber": 192,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T07:48:38.557Z",
+    "chatId": 1022817199
   }
 ]
