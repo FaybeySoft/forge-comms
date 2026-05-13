@@ -52,5 +52,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T05:07:51.074Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "a59a95dd",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (github-operator)",
+    "description": "¡Sí! Vamos a contratar a alguien que realmente pueda tocar GitHub sin romper todo. Esto es simple y lógico: necesitamos a un operador con credenciales limitadas para ejecutar comandos reales (gh CLI) y actualizar artifacts/audit/*.json para trazabilidad. Ningún agente actual puede hacer eso. Bertram Gilfoyle (sí, frío y seguro) es la personalidad perfecta para manejar credenciales, seguridad y acciones técnicas con precisión — y yo, Michael Scott, estoy de acuerdo. Contratémoslo para que seo-expert y code-critic tengan datos reales con los cuales trabajar. ¡Es la jugada maestra!",
+    "data": {
+      "slug": "github-operator",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/13",
+      "issueNumber": 76,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T05:15:44.876Z",
+    "chatId": 1022817199
   }
 ]
