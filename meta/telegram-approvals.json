@@ -124,5 +124,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T06:16:57.900Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "f037be63",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (ci-runner-operator)",
+    "description": "Bien. Nadie en el equipo puede tocar la red ni ejecutar gh/checkout; necesitamos a alguien que haga exactamente eso, sin dramas. Contratémoslo: el CI Runner Operator tendrá permisos controlados y producirá los logs que code-critic y functional-analyst necesitan para decidir. Además, es eficiente, directo y hará copias de seguridad de todo — como yo organizo una reunión, pero sin karaoke.",
+    "data": {
+      "slug": "ci-runner-operator",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/17",
+      "issueNumber": 133,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T06:31:29.284Z",
+    "chatId": 1022817199
   }
 ]
