@@ -232,5 +232,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T07:55:10.919Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "e264174e",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-xss-jsonld-ssr)",
+    "description": "Alright team, listen up — we need someone who smells trouble before trouble smells us. The PO asked for deep expertise on XSS en JSON-LD y SSR, and nobody on the roster has the focused chops for that. This hire will close a critical gap, produce tests we can run in CI, and give us a prioritized list to fix the nastiest callsites. I'm hiring the sharpest, most security-minded personality available: Gilfoyle. He'll be blunt, efficient, and ruthless about real risk. This is a hire, not a band-aid. Make it happen.",
+    "data": {
+      "slug": "security-auditor-xss-jsonld-ssr",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/23",
+      "issueNumber": 206,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T07:59:09.553Z",
+    "chatId": 1022817199
   }
 ]
