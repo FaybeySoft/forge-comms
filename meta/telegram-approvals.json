@@ -214,5 +214,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T07:48:38.557Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "c9f1b661",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-jsonld-xss)",
+    "description": "Okay team, listen up — this is important. The JSON-LD path ends up in dangerouslySetInnerHTML. That is basically putting a ‘Kick Me’ sign on production. We need a dedicated security auditor who specializes in XSS, JSON/JSON-LD sanitization and serialization issues to produce reproducible evidence, test suites, and safe remediation suggestions. I’m hiring someone who will do the deep work: callsite analysis, fuzzing, prototype-pollution checks, and CI-ready tests. It’s decisive, responsible, and not something we should leave to chance. That’s what I’m approving. Boom. Hire them.",
+    "data": {
+      "slug": "security-auditor-jsonld-xss",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/22",
+      "issueNumber": 200,
+      "owner": "Johanson1988",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T07:55:10.919Z",
+    "chatId": 1022817199
   }
 ]
