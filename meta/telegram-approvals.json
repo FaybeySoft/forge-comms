@@ -34,5 +34,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-12T19:00:18.653Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "6a8158a3",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (legal-advisor)",
+    "description": "Alright team — Michael Scott here. We need a legal brain to stop us from accidentally putting the company in a lawsuit-shaped hole. The PO asked for a formal memo and clear decisions about assets in palmares-barca; no one on the team has the IP/licensing chops to do that. I'm hiring a careful, ethical, analysis-focused agent (Chidi-style) because we need meticulous reasoning and clear, defensible recommendations. This will unblock publishing, assign owners, and give concrete replacement or procurement options. That's a sound plan. Boom — hired.",
+    "data": {
+      "slug": "legal-advisor",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/12",
+      "issueNumber": 37,
+      "owner": "Johanson1988",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-13T05:07:51.074Z",
+    "chatId": 1022817199
   }
 ]
