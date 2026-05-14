@@ -254,5 +254,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-05-13T07:59:09.553Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "4e245026",
+    "type": "hire_agent",
+    "title": "Hire: Dwight Schrute (legal-advisor-ip-canarias)",
+    "description": "¡Sí! Contratamos a un/a asesor/a legal especializado/a. Soy Michael Scott — y cuando hay riesgo legal, no hacemos nada a medias. El PO pidió expresamente un dictamen formal y firmado que ninguna de las capacidades actuales puede suplir. Necesitamos a alguien que conozca la normativa española y la práctica en Canarias, que identifique riesgos y diga si pagamos o usamos placeholders. Esto desbloquea el deploy del MVP y protege la empresa. Por eso HIRE: ¡contrato hecho! Beets. Bears. Battle Star legalidad.",
+    "data": {
+      "slug": "legal-advisor-ip-canarias",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/24",
+      "issueNumber": 46,
+      "owner": "Johanson1988",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-05-14T05:03:34.462Z",
+    "chatId": 1022817199
   }
 ]
