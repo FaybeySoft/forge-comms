@@ -111,11 +111,13 @@
       "owner": "Johanson1988",
       "repo": "modelos-casas-canarias"
     },
-    "status": "pending",
+    "status": "rejected",
     "autoAction": "reject",
     "timeoutHours": 24,
     "createdAt": "2026-05-13T05:36:16.672Z",
-    "chatId": 1022817199
+    "chatId": 1022817199,
+    "resolvedAt": "2026-05-14T06:30:39.507Z",
+    "resolvedBy": "timeout"
   },
   {
     "id": "af6cf79c",
