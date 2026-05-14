@@ -211,11 +211,13 @@
       "owner": "Johanson1988",
       "repo": "modelos-casas-canarias"
     },
-    "status": "pending",
+    "status": "rejected",
     "autoAction": "reject",
     "timeoutHours": 24,
     "createdAt": "2026-05-13T07:37:53.467Z",
-    "chatId": 1022817199
+    "chatId": 1022817199,
+    "resolvedAt": "2026-05-14T08:30:39.511Z",
+    "resolvedBy": "timeout"
   },
   {
     "id": "521a0b70",
