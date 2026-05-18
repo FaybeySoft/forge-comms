@@ -1,16 +1,17 @@
 {
   "date": "2026-05-18",
-  "totalUSD": 0.30942024999999995,
+  "totalUSD": 0.30979974999999993,
   "byAgent": {
     "manager": 0.01624175,
-    "product-owner": 0.0655585,
+    "product-owner": 0.06593800000000001,
     "functional-analyst": 0.025729500000000002,
     "agent": 0.20189049999999997
   },
   "byModel": {
-    "gpt-5-mini": 0.30942024999999995
+    "gpt-5-mini": 0.30942024999999995,
+    "gpt-4.1-nano": 0.0003795
   },
-  "calls": 52,
+  "calls": 53,
   "alertSent80": false,
   "alertSent100": false
 }
