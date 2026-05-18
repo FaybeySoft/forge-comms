@@ -1,13 +1,13 @@
 {
   "date": "2026-05-18",
-  "totalUSD": 0.001021,
+  "totalUSD": 0.0098855,
   "byAgent": {
-    "seo-expert": 0.001021
+    "seo-expert": 0.0098855
   },
   "byModel": {
-    "gpt-5-mini": 0.001021
+    "gpt-5-mini": 0.0098855
   },
-  "calls": 1,
+  "calls": 5,
   "alertSent80": false,
   "alertSent100": false
 }
