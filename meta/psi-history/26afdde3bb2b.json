@@ -1,0 +1,20 @@
+[
+  {
+    "ts": "2026-05-18T10:14:09.744Z",
+    "url": "https://modelos-casas-canarias.johannmoreno.dev/casas",
+    "strategy": "desktop",
+    "scores": {
+      "performance": 98,
+      "accessibility": 96,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "cwv": {
+      "lcp": "0.7 s",
+      "cls": "0.003",
+      "tbt": "0 ms",
+      "fcp": "0.7 s",
+      "speedIndex": "1.5 s"
+    }
+  }
+]
