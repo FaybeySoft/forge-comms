@@ -1,42 +1,20 @@
 [
   {
-    "id": "5d56997b",
+    "id": "771f9f9b",
     "type": "hire_agent",
-    "title": "Hire: Chidi Anagonye (legal-advisor-sports-ip)",
-    "description": "Okay, listen — this is important. This issue is legally sensitive and is literally blocking the MVP. We don't need another code nitpicker; we need a lawyer who knows sports clubs, logos, player image rights and licensing. I'm hiring a Legal Advisor specializing in Sports IP so the team gets a formal, actionable dictamen within 48 hours and can keep shipping. Chidi (meticulous, ethical, and painfully thorough) is perfect: he will produce a clear opinion, an approved/not-approved asset list, and prioritized mitigations that the devs can actually implement. That's what she said? No. That's what we do.",
+    "title": "Hire: Chidi Anagonye (legal-expert-sports-ip)",
+    "description": "Okay team, big decision time. We do not have anybody on the squad who can tell us whether using a club crest or a player photo will explode into a legal flamewar. That's not good. I am hiring a Senior Legal Counsel specialized in sports IP because this is critical to shipping the MVP in 48 hours. Chidi (analytical, ethical) will give us the rigorous, evidence-backed guidance we need: a risk classification for every asset, clear next steps (from use-with-attribution to obtain-license or delete), and contract clause templates. In short: protect the company, unblock the product, and avoid lawsuits. That's what she said. (Also: it's the right hire.)",
     "data": {
-      "slug": "legal-advisor-sports-ip",
-      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/25",
-      "issueNumber": 50,
+      "slug": "legal-expert-sports-ip",
+      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/27",
+      "issueNumber": 53,
       "owner": "Johanson1988",
       "repo": "palmares-barca"
     },
-    "status": "rejected",
+    "status": "pending",
     "autoAction": "reject",
     "timeoutHours": 24,
-    "createdAt": "2026-05-18T05:02:35.925Z",
-    "chatId": 1022817199,
-    "resolvedAt": "2026-05-19T08:36:10.454Z",
-    "resolvedBy": "timeout"
-  },
-  {
-    "id": "bdcdb09d",
-    "type": "hire_agent",
-    "title": "Hire: Chidi Anagonye (legal-advisor-ip-images)",
-    "description": "¡Sí! Contratemos a un asesor legal ya. Esto reduce el riesgo de demandas y nos permite que UX, FA y devs sigan trabajando sin crisis legales inesperadas. Elegí a Chidi (buen juicio ético y atención al detalle) — necesitamos a alguien metódico y analítico que entregue un dictamen inicial en 48h y deje instrucciones claras en el repo. No vamos a promover a nadie: nadie en el equipo actual tiene esta competencia. Rechazar sería irresponsable. Contratar es la opción más… ¡empresa responsable! — Michael Scott",
-    "data": {
-      "slug": "legal-advisor-ip-images",
-      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/26",
-      "issueNumber": 51,
-      "owner": "Johanson1988",
-      "repo": "palmares-barca"
-    },
-    "status": "rejected",
-    "autoAction": "reject",
-    "timeoutHours": 24,
-    "createdAt": "2026-05-18T05:09:14.679Z",
-    "chatId": 1022817199,
-    "resolvedAt": "2026-05-19T08:36:12.492Z",
-    "resolvedBy": "timeout"
+    "createdAt": "2026-05-25T05:05:28.707Z",
+    "chatId": 1022817199
   }
 ]
