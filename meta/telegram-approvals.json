@@ -1,22 +1,20 @@
 [
   {
-    "id": "771f9f9b",
+    "id": "af52d053",
     "type": "hire_agent",
-    "title": "Hire: Chidi Anagonye (legal-expert-sports-ip)",
-    "description": "Okay team, big decision time. We do not have anybody on the squad who can tell us whether using a club crest or a player photo will explode into a legal flamewar. That's not good. I am hiring a Senior Legal Counsel specialized in sports IP because this is critical to shipping the MVP in 48 hours. Chidi (analytical, ethical) will give us the rigorous, evidence-backed guidance we need: a risk classification for every asset, clear next steps (from use-with-attribution to obtain-license or delete), and contract clause templates. In short: protect the company, unblock the product, and avoid lawsuits. That's what she said. (Also: it's the right hire.)",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-json-ld-xss)",
+    "description": "¡Contratemos a Gilfoyle! Escuchen: tenemos un parche y tests propuestos, pero esto toca la seguridad de la superficie de ataque en SSR — donde las cosas se vuelven feas rápido. Stewie revisa PRs con brutal honestidad, pero necesitamos a alguien con mentalidad de seguridad aplicada sobre JSON‑LD, U+2028/U+2029 y pruebas idempotentes que aseguren que el parche no rompe SSR ni reintroduce vectores XSS. Gilfoyle es ideal: pragmático, orientado a seguridad y capaz de proponer pruebas CI concretas. Esto reduce el riesgo de rework y vulnerabilidades en producción. Sí, suena serio. Sí, hagámoslo. That's what she said. (OK, sólo un poquito de Michael.)",
     "data": {
-      "slug": "legal-expert-sports-ip",
-      "prUrl": "https://github.com/Johanson1988/forge-agents/pull/27",
-      "issueNumber": 53,
-      "owner": "Johanson1988",
-      "repo": "palmares-barca"
+      "slug": "security-auditor-json-ld-xss",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/28",
+      "issueNumber": 255,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
     },
-    "status": "rejected",
+    "status": "pending",
     "autoAction": "reject",
     "timeoutHours": 24,
-    "createdAt": "2026-05-25T05:05:28.707Z",
-    "chatId": 1022817199,
-    "resolvedAt": "2026-05-26T05:30:37.970Z",
-    "resolvedBy": "timeout"
+    "createdAt": "2026-06-09T05:13:43.454Z",
+    "chatId": 1022817199
   }
 ]
