@@ -16,5 +16,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-09T05:13:43.454Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "6eff9a6f",
+    "type": "hire_agent",
+    "title": "Hire: Dwight Schrute (specialist-legal-ip-deportivo)",
+    "description": "¡Sí! Contratamos a Dwight porque quiere salvar la empresa y porque nadie vigila las marcas con más celo que él. Necesitamos un dictamen legal formal, rápido y sin excusas en 48 horas — alguien metódico, obsesivo y que vea cada posible amenaza como yo veo una venta de Scranton a Stamford (no, no duele recordar). Dwight será implacable revisando acuerdos de patrocinio, derechos sobre logos y fotografías, y escribiendo un dictamen firmado y profesional. Además coordinará con UX para soluciones prácticas si hay prohibiciones. Es una contratación segura y directa — como poner un extinguidor al lado de la impresora.",
+    "data": {
+      "slug": "specialist-legal-ip-deportivo",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/29",
+      "issueNumber": 63,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-09T05:15:07.675Z",
+    "chatId": 1022817199
   }
 ]
