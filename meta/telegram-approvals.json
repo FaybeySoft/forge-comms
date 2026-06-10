@@ -70,5 +70,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-10T05:10:17.829Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "c3ef2980",
+    "type": "hire_agent",
+    "title": "Hire: Dwight Schrute (legal-reviewer-brand-image)",
+    "description": "¡Contratar! El PO tiene razón: un dictamen legal y el uso de marcas/imágenes requieren bloqueo absoluto y aprobación humana. Chidi es excelente en marcas deportivas, pero necesitamos un revisor legal dedicado a materiales editoriales y dictámenes (palmares-barca) que pueda emitir veredictos operativos y bloquear merges cuando sea necesario. Esto reduce riesgo legal y permite al equipo avanzar con confianza. Además — y esto es importante — tener a alguien parándose en la puerta del repositorio diciendo \"¡alto!\" es exactamente el tipo de responsabilidad que quiero ver aquí.",
+    "data": {
+      "slug": "legal-reviewer-brand-image",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/32",
+      "issueNumber": 261,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-10T05:16:08.731Z",
+    "chatId": 1022817199
   }
 ]
