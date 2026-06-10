@@ -34,5 +34,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-09T05:15:07.675Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "1872d967",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (legal-advisor-ip-image-rights)",
+    "description": "¡Sí! Contratémoslo. Mira, esto es simple: tenemos un MVP con alto riesgo legal y necesitamos a alguien que pueda firmar un dictamen y desbloquear el PR. Esto no es trabajo para ingenieros ni para UX — es trabajo para un/a abogado/a con experiencia real en marcas, derechos de imagen de deportistas y redacción de dictámenes. Chidi (bueno, su personalidad para este agente) es metódico, ético y detallista — perfecto para evaluar casos, producir copy legal y decidir usar/atribuir/no usar. Plazo razonable: 3-5 días laborables. Además, vamos a reducir la posibilidad de demandas y acelerar la aprobación del PR. En resumen: hire ahora. That's what compliance says I should do. (No, seriously: hire.)",
+    "data": {
+      "slug": "legal-advisor-ip-image-rights",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/30",
+      "issueNumber": 65,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-10T05:09:35.642Z",
+    "chatId": 1022817199
   }
 ]
