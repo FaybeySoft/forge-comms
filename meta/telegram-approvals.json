@@ -52,5 +52,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-10T05:09:35.642Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "7c50d3cf",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (legal-advisor-ip-sports)",
+    "description": "¡Bueno, equipo! Esto es Michael Scott hablando — y yo tomo las decisiones importantes. Tenemos logos y escudos en el repositorio que podrían meternos en problemas legales (no es divertido perder un MVP por una demanda). Necesitamos a alguien que respire ética, sea detallista y emita un dictamen formal en 48 horas. Elegí a Chidi porque es analítico y meticuloso — justo lo que hace falta para redactar un dictamen claro, revisar los CSV de assets, y proponer cláusulas concretas. Además: rapidez + precisión = menos papeleo para todos. Contratémoslo. ¡Es lo correcto!",
+    "data": {
+      "slug": "legal-advisor-ip-sports",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/31",
+      "issueNumber": 66,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-10T05:10:17.829Z",
+    "chatId": 1022817199
   }
 ]
