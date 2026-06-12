@@ -98,5 +98,23 @@
     "chatId": 1022817199,
     "resolvedAt": "2026-06-11T05:29:01.987Z",
     "resolvedBy": "timeout"
+  },
+  {
+    "id": "948cf4bf",
+    "type": "hire_agent",
+    "title": "Hire: Dwight Schrute (ip-sports-lawyer)",
+    "description": "¡Sí! Contratamos. Escuchad: esto no es un capricho, es puro sentido común de gestión de riesgos. Ningún miembro del equipo tiene la experiencia legal necesaria para asegurar que nuestro MVP no termine en un juicio de campeonato. Necesitamos a alguien que vea las trampas legales antes de que las pise el producto. Así que vamos a fichar a un abogado especialista en marcas deportivas — rápido, claro y con respuestas accionables. Como Michael Scott, diré: \"Contratemos a un tipo que sepa de logos y tribunales\". (Y sí, lo he pensado dos veces. Es la decisión correcta.)",
+    "data": {
+      "slug": "ip-sports-lawyer",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/33",
+      "issueNumber": 70,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-12T05:03:21.254Z",
+    "chatId": 1022817199
   }
 ]
