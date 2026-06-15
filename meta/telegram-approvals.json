@@ -172,5 +172,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-15T05:15:37.856Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "61f117ba",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (senior-typescript-node-dev)",
+    "description": "¡Great Scott! We need someone precise and no-nonsense to apply a focused security patch, run targeted tests, produce artifact evidence, and open a minimal PR. No current agent has hands-on TypeScript/Node + CI experience — this is an operational hire, not a theoretician. I chose Bertram Gilfoyle for the personality because he is security-minded and DevOps-savvy; he will get this done cleanly and efficiently. Hire approved — do it now, and make it fast and tight. That's what she coded.",
+    "data": {
+      "slug": "senior-typescript-node-dev",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/37",
+      "issueNumber": 287,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-15T05:28:22.630Z",
+    "chatId": 1022817199
   }
 ]
