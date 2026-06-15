@@ -118,5 +118,23 @@
     "chatId": 1022817199,
     "resolvedAt": "2026-06-13T05:28:59.521Z",
     "resolvedBy": "timeout"
+  },
+  {
+    "id": "9a07a6bc",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (abogado-ip-deportivo)",
+    "description": "¡Sí! Contratémoslo. Esto es simple: tenemos un repositorio con activos que podrían explotar en la cara del producto si no los revisa un abogado con licencia y experiencia en IP deportiva — y el PO necesita resultados rápido. No podemos promover a un agente existente porque ninguno tiene la competencia legal requerida (licencia, análisis de marcas y derecho de imagen, y capacidad de emitir dictámenes formales). \"Abogado IP Deportivo\" cumple la necesidad crítica: análisis por asset, dictamen en español con citas legales y jurisprudenciales, recomendaciones accionables (replace/attribute/remove) y entregables en PDF dentro del SLA (48 h preliminar, 72 h final). Confío en la elección. ¡Contrátalo ya! — Michael Scott",
+    "data": {
+      "slug": "abogado-ip-deportivo",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/34",
+      "issueNumber": 72,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-15T05:11:35.305Z",
+    "chatId": 1022817199
   }
 ]
