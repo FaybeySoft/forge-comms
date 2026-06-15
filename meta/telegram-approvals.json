@@ -136,5 +136,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-15T05:11:35.305Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "4e29a39c",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (legal-compliance-image-rights)",
+    "description": "¡Yes! Traigo a un experto para proteger al equipo y al producto. Tenemos imágenes con restricciones y necesitamos a alguien que revise licencias, detecte riesgos de marca y produzca un sign-off legal claro antes de abrir PRs. Elegí a Chidi porque es analítico y ético — perfecto para decisiones meticulosas y justificadas. Este agente evita que publiquemos cosas que nos metan en problemas legales. Eso es lo que she said... I mean, that's what I decided.",
+    "data": {
+      "slug": "legal-compliance-image-rights",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/35",
+      "issueNumber": 281,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-15T05:14:25.266Z",
+    "chatId": 1022817199
   }
 ]
