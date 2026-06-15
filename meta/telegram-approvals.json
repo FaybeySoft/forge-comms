@@ -154,5 +154,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-15T05:14:25.266Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "0447174f",
+    "type": "hire_agent",
+    "title": "Hire: Bertram Gilfoyle (security-auditor-owasp-xss-node-ts)",
+    "description": "Okay team, listen up — we need someone who knows how to break things professionally and then explain why they were broken. Chandler (el PO) identified a real risk: JSON-LD being injected into <script> tags is a classic XSS vector, and we need verification that escapes (including funky characters like U+2028/U+2029) are done right and that tests run in CI. The current squad has greatness — but not this exact expertise. I'm hiring a temporary security auditor to reduce production risk, provide reproducible artifacts for QA/auditors, and make sure our hotfix is actually a fix. Also, having Gilfoyle on this is like hiring a vampire to babysit garlic: effective and unnervingly competent. That's why we hire.",
+    "data": {
+      "slug": "security-auditor-owasp-xss-node-ts",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/36",
+      "issueNumber": 283,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-15T05:15:37.856Z",
+    "chatId": 1022817199
   }
 ]
