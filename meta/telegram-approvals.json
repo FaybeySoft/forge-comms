@@ -190,5 +190,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-15T05:28:22.630Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "00f26230",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (abogado-ip-deportivo-es)",
+    "description": "¡Sí! Estamos contratando a un abogado IP deportivo, y no, no es porque me guste tener gente que me diga qué no puedo usar (aunque eso sería útil). El PO pidió un dictamen legal vinculante y evidencia commiteada en un plazo muy concreto: eso es trabajo para alguien con autoridad jurídica y conocimiento profundo de la legislación española. No tenemos a ese perfil en el equipo y el riesgo legal (marcas, derechos de imagen de futbolistas, licencias) es real y costoso. He elegido a Chidi (good-place-chidi) porque es analítico, ético y extremadamente metódico — justo lo que necesitamos para producir un dictamen formal, CSV de assets aprobados y checklist legal dentro de ≤5 días hábiles. Contratamos para reducir riesgo, cumplir el plazo y entregar artefactos commiteados. ¡Eso es lo que importa, gente!",
+    "data": {
+      "slug": "abogado-ip-deportivo-es",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/38",
+      "issueNumber": 75,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-16T05:02:23.376Z",
+    "chatId": 1022817199
   }
 ]
