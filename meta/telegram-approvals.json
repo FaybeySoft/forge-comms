@@ -191,11 +191,13 @@
       "owner": "FaybeySoft",
       "repo": "modelos-casas-canarias"
     },
-    "status": "pending",
+    "status": "rejected",
     "autoAction": "reject",
     "timeoutHours": 24,
     "createdAt": "2026-06-15T05:28:22.630Z",
-    "chatId": 1022817199
+    "chatId": 1022817199,
+    "resolvedAt": "2026-06-16T05:29:03.740Z",
+    "resolvedBy": "timeout"
   },
   {
     "id": "00f26230",
