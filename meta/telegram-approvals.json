@@ -208,5 +208,23 @@
     "timeoutHours": 24,
     "createdAt": "2026-06-16T05:02:23.376Z",
     "chatId": 1022817199
+  },
+  {
+    "id": "14404de7",
+    "type": "hire_agent",
+    "title": "Hire: Maurice Moss (image-asset-producer)",
+    "description": "Alright team, listen up — we need someone who can cut, compress, and make our images behave like responsible adults. UX and Content shouldn't be stuck wrestling binary blobs when we can hire a specialist. Moss is perfect: methodical, precise, and absurdly good with tooling. Hire this role so our pages hit LCP targets, our PRs pass CI, and legal has receipts. That's a sound, smart hire. Boom — efficiency. Also: I declare this a \"win-win-win.\"",
+    "data": {
+      "slug": "image-asset-producer",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/39",
+      "issueNumber": 300,
+      "owner": "FaybeySoft",
+      "repo": "modelos-casas-canarias"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-16T05:13:41.106Z",
+    "chatId": 1022817199
   }
 ]
