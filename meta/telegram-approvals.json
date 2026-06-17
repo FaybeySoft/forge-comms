@@ -211,11 +211,13 @@
       "owner": "FaybeySoft",
       "repo": "palmares-barca"
     },
-    "status": "pending",
+    "status": "rejected",
     "autoAction": "reject",
     "timeoutHours": 24,
     "createdAt": "2026-06-16T05:02:23.376Z",
-    "chatId": 1022817199
+    "chatId": 1022817199,
+    "resolvedAt": "2026-06-17T05:28:59.607Z",
+    "resolvedBy": "timeout"
   },
   {
     "id": "14404de7",
