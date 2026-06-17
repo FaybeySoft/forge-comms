@@ -1,17 +1,17 @@
 {
   "date": "2026-06-17",
-  "totalUSD": 0.25559650000000006,
+  "totalUSD": 0.32770425000000014,
   "byAgent": {
     "manager": 0.01174125,
     "product-owner": 0.05694900000000001,
     "functional-analyst": 0.017377499999999997,
-    "agent": 0.154148,
+    "agent": 0.22625575000000003,
     "seo-expert": 0.01538075
   },
   "byModel": {
-    "gpt-5-mini": 0.25559650000000006
+    "gpt-5-mini": 0.32770425000000014
   },
-  "calls": 37,
+  "calls": 41,
   "alertSent80": false,
   "alertSent100": false
 }
