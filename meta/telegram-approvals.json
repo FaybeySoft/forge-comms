@@ -238,5 +238,23 @@
     "chatId": 1022817199,
     "resolvedAt": "2026-06-17T05:29:01.352Z",
     "resolvedBy": "timeout"
+  },
+  {
+    "id": "2c485c43",
+    "type": "hire_agent",
+    "title": "Hire: Chidi Anagonye (sports-ip-lawyer)",
+    "description": "Okay, here's the deal. We need someone who can stop our MVP from stepping on a legal landmine and fast. This hire gives us exactly that: rigorous, ethically minded analysis (Chidi-style), work delivered in the 72-hour SLA, and clear, actionable outputs the team can implement immediately. Amy will hand over the consolidated package, and this agent will convert it into a defensible memo, a machine-readable approved-images list, and a PR with concrete developer instructions. I love hiring people who unblock the team — and this one unblocks us big time. That's what she said.",
+    "data": {
+      "slug": "sports-ip-lawyer",
+      "prUrl": "https://github.com/FaybeySoft/forge-agents/pull/40",
+      "issueNumber": 82,
+      "owner": "FaybeySoft",
+      "repo": "palmares-barca"
+    },
+    "status": "pending",
+    "autoAction": "reject",
+    "timeoutHours": 24,
+    "createdAt": "2026-06-18T05:07:56.445Z",
+    "chatId": 1022817199
   }
 ]
